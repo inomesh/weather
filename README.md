@@ -1,2 +1,2 @@
 # weather
-the weather app, uses flask and openweather api to fetch data
+The weather PWA, uses flask and [openweather](https://openweathermap.org/api) api to fetch data.
