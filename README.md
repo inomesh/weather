@@ -10,4 +10,4 @@ uses flask and openweather api to fetch data and also becuse of progressive web 
 
 > [Flask](https://flask.palletsprojects.com/en/1.1.x/)
 
-### I want to say Thank You to all of the developers who developed these liberaries and make it possible for developers like me to learn and bulld it.
+### I want to say Thank You to all of the developers who developed these liberaries and made it possible for developers like me to learn and bulld it.
